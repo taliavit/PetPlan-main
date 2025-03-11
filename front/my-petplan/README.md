@@ -27,16 +27,6 @@ Além disso, foi desenvolvida uma API em Java com Spring Boot para manipulação
 
 ---
 
-## Requisitos
-
-- **Node.js**: Certifique-se de ter o Node.js instalado em sua máquina. Caso não tenha, procure um tutorial ou vídeo explicativo para instalação.
-- **npm**: Vem junto com o Node.js.
-- **Java**: Necessário para rodar a API backend.
-- **Eclipse**: Para trabalhar com o projeto Java. Recomenda-se baixar essa versão, é a primeira desse link [https://www.eclipse.org/downloads/packages/].
-- **PostgreSQL**: O banco de dados já está configurado no Neon. Está na minha conta então por favor não abusem, quando estiver livre colocamos numa conta própria de vocês.
-
----
-
 ## Instalação e Configuração
 
 ### Frontend
@@ -122,3 +112,4 @@ Além disso, foi desenvolvida uma API em Java com Spring Boot para manipulação
 ---
 
 Siga as instruções cuidadosamente para garantir que o ambiente de desenvolvimento funcione conforme esperado.
+
